@@ -1,2 +1,2 @@
 # Counter
-This is a simple Counter javascript project
+This is a simple Counter project created using javascript
